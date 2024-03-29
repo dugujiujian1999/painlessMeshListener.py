@@ -14,7 +14,7 @@ It implements a distributed network of nodes that can communicate with each othe
 
 ## Usage
 
-1. Make sure you have Python 3.4 or higher installed.
+1. Make sure you have Python 3.7 or higher installed.
 2. Change the script.
 3. Enjoy.
 
